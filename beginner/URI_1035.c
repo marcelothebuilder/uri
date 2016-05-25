@@ -15,7 +15,7 @@ int main(int argc, char const *argv[])
 	// Four integer numbers A, B, C and D.
 	// Output
 	// Show the corresponding message after the validation of the values​​.
-
+	
 	int a, b, c, d;
 	
 	scanf("%d %d %d %d", &a, &b, &c, &d);
